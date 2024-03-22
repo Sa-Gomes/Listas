@@ -1,0 +1,15 @@
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\bin\Debug\net8.0\exercicio4.exe
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\bin\Debug\net8.0\exercicio4.deps.json
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\bin\Debug\net8.0\exercicio4.runtimeconfig.json
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\bin\Debug\net8.0\exercicio4.dll
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\bin\Debug\net8.0\exercicio4.pdb
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\obj\Debug\net8.0\exercicio4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\obj\Debug\net8.0\exercicio4.AssemblyInfoInputs.cache
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\obj\Debug\net8.0\exercicio4.AssemblyInfo.cs
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\obj\Debug\net8.0\exercicio4.csproj.CoreCompileInputs.cache
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\obj\Debug\net8.0\exercicio4.sourcelink.json
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\obj\Debug\net8.0\exercicio4.dll
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\obj\Debug\net8.0\refint\exercicio4.dll
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\obj\Debug\net8.0\exercicio4.pdb
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\obj\Debug\net8.0\exercicio4.genruntimeconfig.cache
+C:\Users\gomes\OneDrive\Área de Trabalho\Listas\Lista - 5\exercicio4\obj\Debug\net8.0\ref\exercicio4.dll
